@@ -1,7 +1,13 @@
 
 
 @media (max-width:900px){
-   
+    h2 {
+            font-size: 20px;
+        }
+    
+        H1 {
+            font-size: 25px;
+        }
 .container{
     display: flex;
     
@@ -9,7 +15,7 @@
 }
 .container{
     display: flex;
-    
+
 }
 
 
@@ -24,6 +30,12 @@ header div div {
     }
     .container{
     background-color: rgb(206, 212, 212);
+    }
+    h2{
+        font-size: 15px;
+    }
+    H1{
+      font-size: 20px;
     }
 }
 
